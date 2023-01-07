@@ -23,7 +23,7 @@ namespace primeraApp
 
             bool ingreso = false;
 
-            double peso = 56.3;
+            double peso_ej = 56.3;
 
             char letra = 'x';  //almacena solo un caracter
 
@@ -68,6 +68,7 @@ namespace primeraApp
             Console.WriteLine("Ingrese su edad: ");
             byte edad = byte.Parse(Console.ReadLine());  //uso byte porque me guarda numeros positivos del 0 al 25
             //byte.parse() me convierte cualquier cosa a byte(numero entero), ReadLine me devuelve un string
+            //puedo ponerlo como uint peso = UInt32.Parse(Console.ReadLine());
 
             Console.WriteLine($"Usted tiene { edad } años");
             if(edad >= 18)
@@ -78,6 +79,12 @@ namespace primeraApp
             {
                 Console.WriteLine("Usted es menor de edad");
             }
+
+            //operador ternario
+            //condicion ? (condicion == true) : (condicion == false)
+            Console.WriteLine(edad >= 18 ? "sos mayor de edad" : "sos menor de edad"); 
+
+
             Console.WriteLine("Tiene hermanos? S/N");
             char hermanos = (char)Console.ReadKey(true).Key; //ReadKey me devuelve string, debo cambiarlo a char
             //(char).Console... es otra forma de transformar las variables, eso se llama "casting"
@@ -90,6 +97,17 @@ namespace primeraApp
             {
                 Console.WriteLine("sos hijo unico.");
             }
+
+            //objeto date
+            DateTime fyh = DateTime.Now;
+            Console.WriteLine($"La fecha y hora actual es: {fyh} ");
+            Console.WriteLine($"fyh.year: {fyh.Year}");
+            Console.WriteLine($"fyh.Month: {fyh.Month}");
+            Console.WriteLine($"fyh.Day: {fyh.Day}");
+            Console.WriteLine($"fyh.DayOfYear: {fyh.DayOfYear}"); //del 1 al 365
+
+            Console.WriteLine($"fyh.DayOfYear -> nombre: {fyh.DayOfWeek} - numero: {(int)fyh.DayOfWeek}");
+
             Console.WriteLine("------ Fin del programa------");     
 
             Console.ReadKey();
