@@ -108,9 +108,86 @@ namespace primeraApp
 
             Console.WriteLine($"fyh.DayOfYear -> nombre: {fyh.DayOfWeek} - numero: {(int)fyh.DayOfWeek}");
 
-            Console.WriteLine("------ Fin del programa------");     
+            //----------------------------- Bucles----------------------------
+            Console.WriteLine("\n Representar los numeros del 0 al 20 de 2 en 2 con for:");
+            for (int num = 0; num<=20; num += 2)
+            {
+                Console.WriteLine(num);
+            }
+            //matrices
+            Console.WriteLine("Multiples valores en los campos:");
+            for (int i=0, j=9; i<10; i++, j--)
+            {
+                Console.WriteLine($"i: {i} - j: {j}");
+            }
 
-            Console.ReadKey();
+            Console.WriteLine("\nMostrar por consola 10 numeros aleatorios entre el 1 y el 20 con do while:");
+            var rnd = new Random(); //tipado dinamico fuerte
+            int inc = 0;
+            do
+            {
+                int random = rnd.Next(1,20); //1,20 es el intervalo especificado
+                Console.WriteLine(random);
+                inc++;
+            } while(inc < 10);
+
+
+            Console.WriteLine("\nCalcular el promedio de notas de alumnos con do while");
+
+            do
+            {
+                float sumatoria = 0;
+                int cantidad = 0;
+                string notas = "";
+
+                Console.WriteLine("Ingrese el nombre del alumno:");
+                string nombre_alum = Console.ReadLine();
+
+                do
+                {
+                    Console.WriteLine($"Ingrese las notas del alumno {nombre_alum}, f para terminar.");
+                    string entrada = Console.ReadLine();
+                    if (entrada == "f") break;//uso doble comillas porque no es char, es string
+
+                    try
+                    {
+                        float nota = float.Parse(entrada);
+                        if (nota >= 0 && nota <= 10){
+                
+                            cantidad++;
+                            sumatoria+= nota;
+                            notas += (nota + ", "); //para ir concatenando todas las notas y mostrar la lista de notas
+                        }
+                        else
+                        {
+                            Console.WriteLine($"Nota {nota} no valida.");
+                        }
+                    }
+                    catch(Exception ex)
+                    {
+                        Console.WriteLine($"Entrada {entrada} no se puede convertir a decimal. \nDescripcion del error:{ex} ");
+                    }
+                
+                 } while (true);
+
+                if (cantidad > 0)
+                {
+                   float promedio = sumatoria / cantidad;
+                    Console.WriteLine($"El promedio de las notas ingresadas es: {promedio}, y la cantidad de notas es: {cantidad}." +
+                        $"\nLas notas ingresadas son: {notas}. \n" +
+                        $"El alumno {nombre_alum} {(promedio >=4 ? "Aprobo" : "Desaprobo")}");
+                }
+                else
+                {
+                    Console.WriteLine("No hay notas ingresadas.");
+                }
+
+                Console.WriteLine("Desea calcular otro promedio? (S/N)");
+
+            } while(Console.ReadLine() != "n");  //empieza un nuevo bucle con otro alumno.
+
+        
+            Console.WriteLine("------ Fin del programa------");
         }
     }
 }
