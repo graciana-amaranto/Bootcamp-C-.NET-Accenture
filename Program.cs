@@ -186,7 +186,6 @@ namespace primeraApp
 
             } while(Console.ReadLine() != "n");  //empieza un nuevo bucle con otro alumno.
 
-        
             Console.WriteLine("------ Fin del programa------");
         }
     }
