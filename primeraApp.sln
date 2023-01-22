@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "primeraApp", "primeraApp.cs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays_1", "..\Arrays_1\Arrays_1.csproj", "{2064739E-5915-4A9C-BE44-6DD7EAEAE76A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsAviones", "..\..\..\Documents\proyectos\bootcamp accenture\C#\WindowsAviones\WindowsAviones.csproj", "{ED58A4E6-64F9-4CDB-83CF-C58D56A6CADF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2064739E-5915-4A9C-BE44-6DD7EAEAE76A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2064739E-5915-4A9C-BE44-6DD7EAEAE76A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2064739E-5915-4A9C-BE44-6DD7EAEAE76A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED58A4E6-64F9-4CDB-83CF-C58D56A6CADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED58A4E6-64F9-4CDB-83CF-C58D56A6CADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED58A4E6-64F9-4CDB-83CF-C58D56A6CADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED58A4E6-64F9-4CDB-83CF-C58D56A6CADF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
