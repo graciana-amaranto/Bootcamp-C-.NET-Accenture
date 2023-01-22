@@ -1,0 +1,11 @@
+C:\Users\admin\Documents\proyectos\bootcamp accenture\C#\WindowsAviones\bin\Debug\WindowsAviones.exe.config
+C:\Users\admin\Documents\proyectos\bootcamp accenture\C#\WindowsAviones\bin\Debug\WindowsAviones.exe
+C:\Users\admin\Documents\proyectos\bootcamp accenture\C#\WindowsAviones\bin\Debug\WindowsAviones.pdb
+C:\Users\admin\Documents\proyectos\bootcamp accenture\C#\WindowsAviones\obj\Debug\WindowsAviones.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\proyectos\bootcamp accenture\C#\WindowsAviones\obj\Debug\WindowsAviones.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Documents\proyectos\bootcamp accenture\C#\WindowsAviones\obj\Debug\WindowsAviones.Properties.Resources.resources
+C:\Users\admin\Documents\proyectos\bootcamp accenture\C#\WindowsAviones\obj\Debug\WindowsAviones.csproj.GenerateResource.cache
+C:\Users\admin\Documents\proyectos\bootcamp accenture\C#\WindowsAviones\obj\Debug\WindowsAviones.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\proyectos\bootcamp accenture\C#\WindowsAviones\obj\Debug\WindowsAviones.exe
+C:\Users\admin\Documents\proyectos\bootcamp accenture\C#\WindowsAviones\obj\Debug\WindowsAviones.pdb
+C:\Users\admin\Documents\proyectos\bootcamp accenture\C#\WindowsAviones\obj\Debug\WindowsAviones.Form1.resources
