@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\proyectos\bootcamp accenture\NET Core\LibRelacionesPOO\bin\Debug\LibRelacionesPOO.dll
+C:\Users\admin\Documents\proyectos\bootcamp accenture\NET Core\LibRelacionesPOO\bin\Debug\LibRelacionesPOO.pdb
+C:\Users\admin\Documents\proyectos\bootcamp accenture\NET Core\LibRelacionesPOO\obj\Debug\LibRelacionesPOO.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\proyectos\bootcamp accenture\NET Core\LibRelacionesPOO\obj\Debug\LibRelacionesPOO.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\proyectos\bootcamp accenture\NET Core\LibRelacionesPOO\obj\Debug\LibRelacionesPOO.dll
+C:\Users\admin\Documents\proyectos\bootcamp accenture\NET Core\LibRelacionesPOO\obj\Debug\LibRelacionesPOO.pdb
