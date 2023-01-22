@@ -7,7 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "primeraApp", "primeraApp.cs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays_1", "..\Arrays_1\Arrays_1.csproj", "{2064739E-5915-4A9C-BE44-6DD7EAEAE76A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsAviones", "..\..\..\Documents\proyectos\bootcamp accenture\C#\WindowsAviones\WindowsAviones.csproj", "{ED58A4E6-64F9-4CDB-83CF-C58D56A6CADF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WAviones", "..\..\..\Documents\proyectos\bootcamp accenture\C#\WindowsAviones\WAviones.csproj", "{ED58A4E6-64F9-4CDB-83CF-C58D56A6CADF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PrimersApp", "PrimersApp", "{9511115E-D0B5-4810-8AA4-9794DAF7FB2E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WindowsAviones", "WindowsAviones", "{E509DD87-73C3-4991-B008-870449303ACA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -30,6 +34,10 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6D3EC010-9C30-4742-8D71-24D98898C3C0} = {9511115E-D0B5-4810-8AA4-9794DAF7FB2E}
+		{ED58A4E6-64F9-4CDB-83CF-C58D56A6CADF} = {E509DD87-73C3-4991-B008-870449303ACA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A1E96193-5CE3-4CE7-A2D6-FB6D9E267770}
