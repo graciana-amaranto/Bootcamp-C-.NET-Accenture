@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\proyectos\bootcamp accenture\NET Core\LibFactura\bin\Debug\LibFactura.dll
+C:\Users\admin\Documents\proyectos\bootcamp accenture\NET Core\LibFactura\bin\Debug\LibFactura.pdb
+C:\Users\admin\Documents\proyectos\bootcamp accenture\NET Core\LibFactura\obj\Debug\LibFactura.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\proyectos\bootcamp accenture\NET Core\LibFactura\obj\Debug\LibFactura.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\proyectos\bootcamp accenture\NET Core\LibFactura\obj\Debug\LibFactura.dll
+C:\Users\admin\Documents\proyectos\bootcamp accenture\NET Core\LibFactura\obj\Debug\LibFactura.pdb
