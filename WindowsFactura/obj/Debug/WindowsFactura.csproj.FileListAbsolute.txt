@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\proyectos\bootcamp accenture\NET Core\WindowsFactura\bin\Debug\WindowsFactura.exe.config
+C:\Users\admin\Documents\proyectos\bootcamp accenture\NET Core\WindowsFactura\bin\Debug\WindowsFactura.exe
+C:\Users\admin\Documents\proyectos\bootcamp accenture\NET Core\WindowsFactura\bin\Debug\WindowsFactura.pdb
+C:\Users\admin\Documents\proyectos\bootcamp accenture\NET Core\WindowsFactura\bin\Debug\LibFactura.dll
+C:\Users\admin\Documents\proyectos\bootcamp accenture\NET Core\WindowsFactura\bin\Debug\LibFactura.pdb
+C:\Users\admin\Documents\proyectos\bootcamp accenture\NET Core\WindowsFactura\obj\Debug\WindowsFactura.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\proyectos\bootcamp accenture\NET Core\WindowsFactura\obj\Debug\WindowsFactura.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Documents\proyectos\bootcamp accenture\NET Core\WindowsFactura\obj\Debug\WindowsFactura.Form1.resources
+C:\Users\admin\Documents\proyectos\bootcamp accenture\NET Core\WindowsFactura\obj\Debug\WindowsFactura.Properties.Resources.resources
+C:\Users\admin\Documents\proyectos\bootcamp accenture\NET Core\WindowsFactura\obj\Debug\WindowsFactura.csproj.GenerateResource.cache
+C:\Users\admin\Documents\proyectos\bootcamp accenture\NET Core\WindowsFactura\obj\Debug\WindowsFactura.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\proyectos\bootcamp accenture\NET Core\WindowsFactura\obj\Debug\WindowsFactura.csproj.CopyComplete
+C:\Users\admin\Documents\proyectos\bootcamp accenture\NET Core\WindowsFactura\obj\Debug\WindowsFactura.exe
+C:\Users\admin\Documents\proyectos\bootcamp accenture\NET Core\WindowsFactura\obj\Debug\WindowsFactura.pdb
