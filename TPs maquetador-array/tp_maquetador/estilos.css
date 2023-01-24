@@ -1,0 +1,131 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    display: grid;
+    grid-template-areas: "h h h"
+                         "n n n"
+                         ". m ."
+                         "f f f";
+    background-color: black;
+}
+
+header {
+    display: flex;
+    grid-area: h;
+    gap: 10px;
+    background-color: white;
+}
+
+#secroja{
+    background-color: rgb(216,60,44);
+    width: 300px;
+    height: 100%;
+}
+
+#titulo {
+    color: white;
+    background-color: rgb(104,148,204);
+    width: 100%;
+}
+
+.main-title {
+    padding: .9rem;
+    font-size: 3em;
+    font-weight: lighter;
+}
+
+nav {
+    height: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    grid-area: n;
+    background-color: white;
+}
+
+#navbar {
+    display: flex;
+    justify-content: space-around;
+}
+
+nav a {
+    margin: 20px;
+    text-decoration: none;
+    color: rgb(0, 0, 0, .4);
+    font-size: .8em;
+}
+
+main {
+    height: 100%;
+    padding: 20px;
+    color: rgb(216, 216, 124);
+    grid-area: m;
+}
+
+#temas {
+    height: 100%;
+    float: left;
+}
+
+
+h3, h4 {
+    color: white;
+}
+
+h4 {
+    margin: 1rem 0;
+}
+
+#imagen {
+    height: 100%;
+    float: right;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-content: stretch;
+    align-items: flex-end;
+    margin-left: 100px;
+}
+
+img {
+    width: 100%;
+    border: 1px solid white;
+    transition: .2s;
+}
+
+#art-compra {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+#art-compra h4 {
+    margin-bottom: 1rem;
+    align-self: flex-start;
+}
+
+#art-compra span::before {
+    content: 'HTML & CSS: Curso práctico avanzado';
+    color:rgb(216, 216, 124);
+}
+
+#art-compra span {
+    align-self: flex-start;
+    color: white;
+    font-size: .9em;
+}
+
+footer {
+    height: 2.8rem;
+    background-color: white;
+    line-height: 2.8rem;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(0, 0, 0, .9);
+    grid-area: f;
+}
