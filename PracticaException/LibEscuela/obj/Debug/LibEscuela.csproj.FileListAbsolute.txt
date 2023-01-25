@@ -1,0 +1,6 @@
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase5\Excepciones\LibEscuela\bin\Debug\LibEscuela.dll
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase5\Excepciones\LibEscuela\bin\Debug\LibEscuela.pdb
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase5\Excepciones\LibEscuela\obj\Debug\LibEscuela.csproj.AssemblyReference.cache
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase5\Excepciones\LibEscuela\obj\Debug\LibEscuela.csproj.CoreCompileInputs.cache
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase5\Excepciones\LibEscuela\obj\Debug\LibEscuela.dll
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase5\Excepciones\LibEscuela\obj\Debug\LibEscuela.pdb

@@ -1,0 +1,14 @@
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase5\Excepciones\WindowsEscuela\bin\Debug\WindowsEscuela.exe.config
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase5\Excepciones\WindowsEscuela\bin\Debug\WindowsEscuela.exe
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase5\Excepciones\WindowsEscuela\bin\Debug\WindowsEscuela.pdb
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase5\Excepciones\WindowsEscuela\bin\Debug\LibEscuela.dll
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase5\Excepciones\WindowsEscuela\bin\Debug\LibEscuela.pdb
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase5\Excepciones\WindowsEscuela\obj\Debug\WindowsEscuela.csproj.AssemblyReference.cache
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase5\Excepciones\WindowsEscuela\obj\Debug\WindowsEscuela.csproj.SuggestedBindingRedirects.cache
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase5\Excepciones\WindowsEscuela\obj\Debug\WindowsEscuela.Form1.resources
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase5\Excepciones\WindowsEscuela\obj\Debug\WindowsEscuela.Properties.Resources.resources
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase5\Excepciones\WindowsEscuela\obj\Debug\WindowsEscuela.csproj.GenerateResource.cache
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase5\Excepciones\WindowsEscuela\obj\Debug\WindowsEscuela.csproj.CoreCompileInputs.cache
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase5\Excepciones\WindowsEscuela\obj\Debug\WindowsEscuela.csproj.CopyComplete
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase5\Excepciones\WindowsEscuela\obj\Debug\WindowsEscuela.exe
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase5\Excepciones\WindowsEscuela\obj\Debug\WindowsEscuela.pdb
