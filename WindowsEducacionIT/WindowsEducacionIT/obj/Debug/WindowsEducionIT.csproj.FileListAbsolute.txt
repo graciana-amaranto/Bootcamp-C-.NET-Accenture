@@ -1,0 +1,16 @@
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase7\WindowsEducionIT\WindowsEducionIT\bin\Debug\WindowsEducionIT.exe.config
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase7\WindowsEducionIT\WindowsEducionIT\bin\Debug\WindowsEducionIT.exe
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase7\WindowsEducionIT\WindowsEducionIT\bin\Debug\WindowsEducionIT.pdb
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase7\WindowsEducionIT\WindowsEducionIT\bin\Debug\EntityFramework.dll
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase7\WindowsEducionIT\WindowsEducionIT\bin\Debug\EntityFramework.SqlServer.dll
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase7\WindowsEducionIT\WindowsEducionIT\bin\Debug\EntityFramework.xml
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase7\WindowsEducionIT\WindowsEducionIT\bin\Debug\EntityFramework.SqlServer.xml
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase7\WindowsEducionIT\WindowsEducionIT\obj\Debug\WindowsEducionIT.csproj.AssemblyReference.cache
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase7\WindowsEducionIT\WindowsEducionIT\obj\Debug\WindowsEducionIT.csproj.SuggestedBindingRedirects.cache
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase7\WindowsEducionIT\WindowsEducionIT\obj\Debug\WindowsEducionIT.Properties.Resources.resources
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase7\WindowsEducionIT\WindowsEducionIT\obj\Debug\WindowsEducionIT.csproj.GenerateResource.cache
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase7\WindowsEducionIT\WindowsEducionIT\obj\Debug\WindowsEducionIT.csproj.CoreCompileInputs.cache
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase7\WindowsEducionIT\WindowsEducionIT\obj\Debug\WindowsEducionIT.csproj.CopyComplete
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase7\WindowsEducionIT\WindowsEducionIT\obj\Debug\WindowsEducionIT.exe
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase7\WindowsEducionIT\WindowsEducionIT\obj\Debug\WindowsEducionIT.pdb
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase7\WindowsEducionIT\WindowsEducionIT\obj\Debug\WindowsEducionIT.Migrations.initial.resources
